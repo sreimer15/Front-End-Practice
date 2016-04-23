@@ -11,5 +11,4 @@ I'll pull it in if it is satisfactory
 
 Current Modules
 
-1. jQuery Basic
-2.
+1. jQuery Basics
